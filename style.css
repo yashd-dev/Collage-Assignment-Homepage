@@ -1,0 +1,30 @@
+html {
+    align-items: center;
+    background-color: #3e4058;
+    color: #c5c8c6;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 22px;
+    display: flex;
+    height: 90%;
+    width: 80%;
+    justify-content: center;
+}
+span
+{
+    color: #BF616A;
+}
+p{
+    color: #D8DEE9;
+}   
+
+a:link {
+    color: #8fbcbb;
+}
+  
+a:visited {
+    color: #ebcb8b;
+}
+  
+a:hover {
+    color: #bf616a;
+}
