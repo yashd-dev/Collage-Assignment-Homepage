@@ -4,7 +4,7 @@
 
 This is a Assignment given by my collage to test basic HTML and CSS Skills.
 
-## ❖ Refrences 
+## ❖ References 
 
 - https://github.com/midnitefox/Nord-Theme-Ports-and-Assets
 - https://www.nordtheme.com/docs/colors-and-palettes
