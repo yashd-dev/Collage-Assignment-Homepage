@@ -14,3 +14,5 @@ This is a Assignment given by my collage to test basic HTML and CSS Skills.
 ## ❖ Reusability
 
 Feel free to use this project as you want!
+
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
